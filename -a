@@ -1,0 +1,155 @@
+[33mcommit 9103906eb08bdb30ac3e2ee9a45bc32d57f33f54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c40661c aada296
+Author: Maurício Aniche <100812+mauricioaniche@users.noreply.github.com>
+Date:   Fri May 14 14:39:01 2021 +0200
+
+    Merge pull request #18 from bhoom10/master
+    
+    Setup Github Actions for CI/CD
+
+[33mcommit aada29689cf005531f79d6330c8f0226e9afc3b5[m
+Merge: 19f7b92 c40661c
+Author: bhoom10 <bhoomika10@gmail.com>
+Date:   Wed Apr 28 20:37:40 2021 +0200
+
+    Merge branch 'master' of https://github.com/SERG-Delft/mooc-software-testing into master
+
+[33mcommit 19f7b92522ac68793f394d749b30d32d7344594c[m
+Author: Bhoomika Agarwal <bhoomika10@gmail.com>
+Date:   Wed Apr 28 20:34:54 2021 +0200
+
+    Setup Github actions
+
+[33mcommit c40661c95f8e5abb8147d06029e3c8cfe8510305[m
+Merge: 2e321bf 644e404
+Author: Maurício Aniche <100812+mauricioaniche@users.noreply.github.com>
+Date:   Mon Apr 26 14:07:18 2021 +0200
+
+    Merge pull request #17 from bhoom10/issue/upgrade-dependencies-16
+    
+    Upgraded all dependencies
+
+[33mcommit 644e404e337ab520d9548d28890201aa4c9e3c1e[m
+Author: bhoom10 <bhoomika10@gmail.com>
+Date:   Sun Apr 18 13:35:29 2021 +0200
+
+    Upgraded all dependencies
+
+[33mcommit 2e321bf95ab9a855b8293cac491e9c4c3d40efc0[m
+Merge: ede4e1d 2808de8
+Author: Arie van Deursen <avandeursen@users.noreply.github.com>
+Date:   Tue Apr 6 15:14:29 2021 +0200
+
+    Merge pull request #14 from bhoom10/mockito-version-update
+    
+    Mockito core version updated
+
+[33mcommit 2808de8f22d90a3166d6640a8d688c833c413025[m
+Author: bhoom10 <bhoomika10@gmail.com>
+Date:   Mon Apr 5 21:40:38 2021 +0200
+
+    Constructor for InvoiceDao fixed
+
+[33mcommit 16548289ab44609ef48554fe302f35159b72f7d4[m
+Author: bhoom10 <bhoomika10@gmail.com>
+Date:   Mon Apr 5 14:47:38 2021 +0200
+
+    Mockito core version updated
+
+[33mcommit ede4e1d3ffe76c6148779360cd41dc2b6831c0ba[m
+Author: Maurício Aniche <100812+mauricioaniche@users.noreply.github.com>
+Date:   Thu Mar 5 14:46:21 2020 +0100
+
+    this method should be the constructor of the class
+
+[33mcommit 0b2ffa1c5b225b57eb809bcdefe3e930b5d908bb[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Thu Sep 6 17:26:21 2018 +0200
+
+    making it as an exercise
+
+[33mcommit 55e8653f31c785972e44efad4482f1ccffd47c35[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Thu Sep 6 17:22:06 2018 +0200
+
+    missing getting started code
+
+[33mcommit c5c237e3f61d0be81e1b00442462885a2bdf0868[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Sep 4 14:00:07 2018 +0200
+
+    some initial README
+
+[33mcommit dc515e49e500675838eeaca1880a9639937cea85[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Sep 4 13:57:38 2018 +0200
+
+    ghappy and mirrorends problems
+
+[33mcommit 441c849ee1b6ebe23288308c30828458feeeacb3[m
+Author: Rolf <r.a.n.starre@student.tudelft.nl>
+Date:   Tue Sep 4 13:54:28 2018 +0200
+
+    Added sum exercise
+
+[33mcommit 24786ae716bc5e95b81210d049b740d991a5171a[m
+Author: Rolf <r.a.n.starre@student.tudelft.nl>
+Date:   Tue Sep 4 13:37:28 2018 +0200
+
+    Changed cypher to cipher"
+    git push
+
+[33mcommit 1263568cf3f20824916bd205f4b79b73632ca0e4[m
+Author: Rolf <r.a.n.starre@student.tudelft.nl>
+Date:   Tue Sep 4 12:41:39 2018 +0200
+
+    Less empty test file
+
+[33mcommit 45c30b9512e2c70d1b55cb8b5239a335cf080d4d[m
+Merge: fce6af6 f5744d1
+Author: Rolf <r.a.n.starre@student.tudelft.nl>
+Date:   Tue Sep 4 12:39:18 2018 +0200
+
+    Merge branch 'master' of github.com:SERG-Delft/mooc-software-testing
+
+[33mcommit fce6af669c27dc61d0538f666a43da1cadd58a13[m
+Author: Rolf <r.a.n.starre@student.tudelft.nl>
+Date:   Tue Sep 4 12:38:50 2018 +0200
+
+    CaesarShift exercise with bug
+
+[33mcommit f5744d1fd01b50c8ac81c2d11819901dd3d22ab2[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Sep 4 12:35:04 2018 +0200
+
+    discount problem
+
+[33mcommit fc6a80415eddd8d99644508ed67b5e3516c7166e[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Sep 4 12:34:59 2018 +0200
+
+    roman numeral with the before each example
+
+[33mcommit 584b063c4e7ab25b19d9dcef8765d3e0d4a7e0ec[m
+Author: DoDoH <diondehoog@hotmail.com>
+Date:   Tue Sep 4 12:32:56 2018 +0200
+
+    added a tutorial exercise
+
+[33mcommit 9c4156975dcb97a0cdf6bec1b0198a1a99582525[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Sep 4 11:23:47 2018 +0200
+
+    roman numeral
+
+[33mcommit 0c2b0c38e021cfa7f74d278606ed4522d9819f0d[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Jul 17 17:33:30 2018 +0200
+
+    numfinder example
+
+[33mcommit e85257930b84eb8de66d0134c428560d0040436c[m
+Author: Mauricio Aniche <mauricioaniche@gmail.com>
+Date:   Tue Jul 17 13:35:15 2018 +0200
+
+    initial import of the examples
